@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arjuncad02.github.io/industrial-powertool/sitemap.xml
